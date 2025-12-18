@@ -1,25 +1,13 @@
-## Hi, I'm Diego 
+Hi, I’m Diego.
 
-I’m a B.S. Applied Mathematics graduate from NC State, interested in data science, machine learning, and building end-to-end data systems.
+I’m a B.S. Applied Mathematics graduate from NC State with interests in
+data science, machine learning, and data engineering.
 
-### Interests
-- Applied machine learning & time series forecasting  
-- Data engineering & real-time pipelines  
-- Sports analytics & scientific data applications  
+I enjoy working on applied projects involving real data, especially
+time series forecasting, streaming pipelines, and sports analytics.
 
-### Selected Projects
-- **Valorant Player Performance Predictor**  
-  End-to-end analytics system using Selenium scraping, PostgreSQL (Supabase),
-  and XGBoost modeling.
+I’ve built projects using Python, SQL, Kafka, Spark, and common ML tools,
+focusing on end-to-end systems rather than isolated models.
 
-- **Surf Forecasting LSTM Pipeline**  
-  Time-series wave forecasting using NOAA buoy data, feature engineering,
-  and LSTM models.
-
-- **Real-Time Soccer Data Pipeline**  
-  Live API ingestion with Kafka streaming, Spark processing,
-  and interactive dashboards.
-
-### Tech Stack
-Python, SQL, PostgreSQL, Spark, Kafka, scikit-learn, XGBoost, TensorFlow,
-AWS, Git
+Email: dsarria545@gmail.com  
+LinkedIn: https://www.linkedin.com/in/dsarria123/
