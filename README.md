@@ -1,7 +1,6 @@
 ## Hi, I'm Diego 👋
 
-I’m a B.S. Applied Mathematics graduate from NC State with a focus on
-data science, machine learning, and end-to-end data systems.
+I’m a B.S. Applied Mathematics graduate from NC State, interested in data science, machine learning, and building end-to-end data systems.
 
 ### 🔍 Interests
 - Applied machine learning & time series forecasting  
