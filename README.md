@@ -1,4 +1,4 @@
-Hi, I’m Diego.
+Hi, I’m Diego !
 
 I’m a B.S. Applied Mathematics graduate from NC State with interests in
 data science, machine learning, and data engineering.
