@@ -1,13 +1,13 @@
-## Hi, I'm Diego 👋
+## Hi, I'm Diego 
 
 I’m a B.S. Applied Mathematics graduate from NC State, interested in data science, machine learning, and building end-to-end data systems.
 
-### 🔍 Interests
+### Interests
 - Applied machine learning & time series forecasting  
 - Data engineering & real-time pipelines  
 - Sports analytics & scientific data applications  
 
-### 🚀 Selected Projects
+### Selected Projects
 - **Valorant Player Performance Predictor**  
   End-to-end analytics system using Selenium scraping, PostgreSQL (Supabase),
   and XGBoost modeling.
@@ -20,6 +20,6 @@ I’m a B.S. Applied Mathematics graduate from NC State, interested in data scie
   Live API ingestion with Kafka streaming, Spark processing,
   and interactive dashboards.
 
-### 🛠 Tech Stack
+### Tech Stack
 Python, SQL, PostgreSQL, Spark, Kafka, scikit-learn, XGBoost, TensorFlow,
 AWS, Git
