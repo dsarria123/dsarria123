@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Diego 👋
 
-<!--
-**dsarria123/dsarria123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a B.S. Applied Mathematics graduate from NC State with a focus on
+data science, machine learning, and end-to-end data systems.
 
-Here are some ideas to get you started:
+### 🔍 Interests
+- Applied machine learning & time series forecasting  
+- Data engineering & real-time pipelines  
+- Sports analytics & scientific data applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Selected Projects
+- **Valorant Player Performance Predictor**  
+  End-to-end analytics system using Selenium scraping, PostgreSQL (Supabase),
+  and XGBoost modeling.
+
+- **Surf Forecasting LSTM Pipeline**  
+  Time-series wave forecasting using NOAA buoy data, feature engineering,
+  and LSTM models.
+
+- **Real-Time Soccer Data Pipeline**  
+  Live API ingestion with Kafka streaming, Spark processing,
+  and interactive dashboards.
+
+### 🛠 Tech Stack
+Python, SQL, PostgreSQL, Spark, Kafka, scikit-learn, XGBoost, TensorFlow,
+AWS, Git
